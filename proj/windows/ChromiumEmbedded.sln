@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ChromiumEmbedded", "ChromiumEmbedded.vcproj", "{F6F7674E-22DC-47A4-A75B-EA0D766D6C72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Non-UNICODE Debug|Win32 = Non-UNICODE Debug|Win32
+		Release|Win32 = Release|Win32
+		UNICODE Debug|Win32 = UNICODE Debug|Win32
+		UNICODE Release|Win32 = UNICODE Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6F7674E-22DC-47A4-A75B-EA0D766D6C72}.Debug|Win32.ActiveCfg = Non-UNICODE Debug|Win32
+		{F6F7674E-22DC-47A4-A75B-EA0D766D6C72}.Debug|Win32.Build.0 = Non-UNICODE Debug|Win32
+		{F6F7674E-22DC-47A4-A75B-EA0D766D6C72}.Non-UNICODE Debug|Win32.ActiveCfg = Non-UNICODE Debug|Win32
+		{F6F7674E-22DC-47A4-A75B-EA0D766D6C72}.Non-UNICODE Debug|Win32.Build.0 = Non-UNICODE Debug|Win32
+		{F6F7674E-22DC-47A4-A75B-EA0D766D6C72}.Release|Win32.ActiveCfg = UNICODE Release|Win32
+		{F6F7674E-22DC-47A4-A75B-EA0D766D6C72}.Release|Win32.Build.0 = UNICODE Release|Win32
+		{F6F7674E-22DC-47A4-A75B-EA0D766D6C72}.UNICODE Debug|Win32.ActiveCfg = UNICODE Debug|Win32
+		{F6F7674E-22DC-47A4-A75B-EA0D766D6C72}.UNICODE Debug|Win32.Build.0 = UNICODE Debug|Win32
+		{F6F7674E-22DC-47A4-A75B-EA0D766D6C72}.UNICODE Release|Win32.ActiveCfg = UNICODE Release|Win32
+		{F6F7674E-22DC-47A4-A75B-EA0D766D6C72}.UNICODE Release|Win32.Build.0 = UNICODE Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
